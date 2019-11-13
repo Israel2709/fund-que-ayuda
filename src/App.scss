@@ -1,0 +1,11 @@
+$mainGreen: #2fceac;
+$mainOrange: #ff5518;
+
+.bg-main {
+  &-green {
+    background-color: $mainGreen;
+  }
+  &-orange {
+    background-color: $mainOrange;
+  }
+}
